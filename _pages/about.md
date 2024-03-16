@@ -139,8 +139,10 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 ## Professional Service
 
-- Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023
+- Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023, 2024
 - Reviewer: NPJ Biosensing, 2023
+- Reviewer: International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024
+- Reviewer: Conference on Health, Inference, and Learning (CHIL), 2024
 
 ## Awards
 
