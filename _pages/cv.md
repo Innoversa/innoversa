@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <!-- [Curriculum Vitae] -->
 
-[Download page **resume** here](https://innoversa.github.io/innoversa/files/sicong_two_page_resume_032024.pdf)
+[Download **resume** here](https://innoversa.github.io/innoversa/files/sicong_two_page_resume_032024.pdf)
 
 ## Publications
 
