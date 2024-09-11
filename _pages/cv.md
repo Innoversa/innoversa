@@ -8,14 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <!-- [Curriculum Vitae] -->
 
-[Download **resume** here](https://innoversa.github.io/innoversa/files/sicong_two_page_resume_032024.pdf)
+## [Download **resume** here](https://innoversa.github.io/innoversa/files/sicong_two_page_resume_09102024.pdf)
 
-## Publications
+<!-- ## Publications
 
-- **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, *ArterialNet: Arterial Blood Pressure Reconstruction*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: **24.5%**)
-- Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, *Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: **24.5%**)
+- **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, _ArterialNet: Arterial Blood Pressure Reconstruction_, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: **24.5%**)
+- Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, _Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation_, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: **24.5%**)
+- **Sicong Huang**, Roozbeh Jafari, Bobak Mortazavi, “Pulse2AI: An Adaptive Framework to Standardize and Process Pulsatile Wearable Sensor Data for Clinical Applications”, Open Journal of Engineering in Medicine and Biology (OJEMB) 2023 (accepted on 03/03/2024)
+- Zhale Nowroozilarki, Sicong Huang, Rohan Khera, Bobak Mortazavi, “ECG Abnormality Detection in MIMIC-IV-ECG Data Using Supervised Contrastive Learning”, Conference of IEEE EMBS (EMBC) 2024 (accepted on 04/15/2024)
+• Zhale Nowroozilarki, Sicong Huang, Rohan Khera, Bobak Mortazavi, “Non-invasive Electrolyte Estimation Using Multi-lead ECG data via Semi-supervised Contrastive Learning with an Adaptive Loss”, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI) 2024 (submitted on 06/24/2024)
+• Sicong Huang, Zhale Nowroozilarki, Yichen Tao, Rohan Khera, Bobak Mortazavi, “RhythmPulse: Remote Cardiac Monitoring via Single-Lead ECG Translation from Photoplethysmography”, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI) 2024 (submitted on 06/24/2024)
 
 ## Contributions and Open-Source Projects
 
@@ -25,23 +30,26 @@ redirect_from:
 
 - Programming Languages: **Python**, **MATLAB**, LaTeX, R, **C++**, C#, Java, SQL, Cypher, JavaScript, JMP, TypeScript
 - Tools/Packages: **Pytorch**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, **TF/Keras**,Pandas, Numpy, Matplotlib, Seaborn, Plotly
-- Technologies/Frameworks: **Linux**, **.NET**, **Apptainer/Singularity/Docker**, Version Control, .NET, CI/CD, Scrum/Agile,  Cloud Computing (AWS & Azure), Distributed Computing, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL
+- Technologies/Frameworks: **Linux**, **.NET**, **Apptainer/Singularity/Docker**, Version Control, .NET, CI/CD, Scrum/Agile, Cloud Computing (AWS & Azure), Distributed Computing, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL
 
 ## Research Experience
 
 - **Research Assistant**: June 2021 - present
+
   - [STMI Lab](https://stmilab.github.io/), Texas A&M University
   - Advisor: Dr. Bobak Mortazavi
   - Cuffless Blood Pressure Monitoring with wearables.
   - Remote Cardiac Rehabilitation with wearables.
 
 - **Undergraduate Researcher**: August 2020 - May 2021
+
   - [STMI Lab](https://stmilab.github.io/), Texas A&M University
   - Advisor: Dr. Bobak Mortazavi
   - Inverse Metabolic Monitoring (IMM) from Continuous Glucose Monitoring (CGM).
   - Twitter Sentiment Analysis with ML and natural language processing (NLP).
 
 - **Undergraduate Researcher**: August 2019 - June 2020
+
   - [Information Innovation Lab](https://people.engr.tamu.edu/ajiang/index.html), Texas A&M University
   - Advisor: Dr. Anxiao Jiang
   - "Looking down at phone" action Recognition with ML and computer vision (CV).
@@ -56,6 +64,7 @@ redirect_from:
 ## Work Experience
 
 - **Database Administrator and Software Engineer**: May 2020 - August 2020
+
   - [Nuvenu LLC (Tech Startup)](https://www.bizapedia.com/tx/nuvenu-llc.html), Fort Worth, TX
   - A social media platform that connects customers and local businesses across restaurants, bars, theatres, etc.
   - Architected and Implemented a cloud graph database to store user interactions with businesses using Neo4j
@@ -63,6 +72,7 @@ redirect_from:
   - Managed the project with Azure DevOps and deployed the website and database on Azure
 
 - **Peer Teacher**: August 2019 - May 2021
+
   - [CSE Peer Teaching](https://engineering.tamu.edu/cse/academics/peer-teachers/current-peer-teachers.html), Texas A&M University
   - CSCE 315: Programming Studio
   - CSCE 314: Programming Languages
@@ -72,6 +82,7 @@ redirect_from:
   - CSCE 121: Introduction to Program Design and Concepts
 
 - **Student Assistant**: May 2019 - October 2019
+
   - Health Promotion and Genomics Lab, Texas A&M University
   - Designed promotional documents to recruit Community Health Workers
   - Translated and modified recruitment letters and application forms for minority population
@@ -103,4 +114,4 @@ redirect_from:
   - Advisor: Dr. Bobak Mortazavi
 - BS in Computer Science: 2017-2021
   - Texas A&M University
-  - Minor in Cybersecurity
+  - Minor in Cybersecurity -->

@@ -115,6 +115,8 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 - **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, _ArterialNet: Arterial Blood Pressure Reconstruction_, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (Accepted with oral: 12%)
 - Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, _Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation_, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (Accepted with oral: 12%)
+- **Sicong Huang**, Roozbeh Jafari, Bobak Mortazavi, _Pulse2AI: An Adaptive Framework to Standardize and Process Pulsatile Wearable Sensor Data for Clinical Applications_, Open Journal of Engineering in Medicine and Biology (OJEMB), 2023
+- Zhale Nowroozilarki, **Sicong Huang**, Rohan Khera, Bobak Mortazavi, _ECG Abnormality Detection in MIMIC-IV-ECG Data Using Supervised Contrastive Learning_, Conference of IEEE EMBS (EMBC), 2024
 
 ## Contributions and Open-Source Projects
 
@@ -140,9 +142,12 @@ Specifically, I am deeply interested in time-series analysis and its application
 ## Professional Service
 
 - Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023, 2024
+- Reviewer: IEEE Journal of Biomedical and Healthinformatics (IEEE JBHI), 2023, 2024
 - Reviewer: NPJ Biosensing, 2023
 - Reviewer: International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024
 - Reviewer: Conference on Health, Inference, and Learning (CHIL), 2024
+- Reviewer: IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2024
+-
 
 ## Awards
 
