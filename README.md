@@ -1,7 +1,7 @@
 # Howdy
 
 I'm Sicong Huang, a proud member of [STMI lab](https://stmilab.github.io/team/), advised by Dr. Bobak Mortazavi.
-
+[![Sicong's GitHub stats](https://github-readme-stats.vercel.app/api?username=innoversa)](https://github.com/anuraghazra/github-readme-stats)
 ## Table of Contents
 
 - [Howdy](#howdy)
