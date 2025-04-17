@@ -34,7 +34,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 ## Education
 
-- Doctor of Philosophy (PhD) in **Computer Science**: 2021-2025 (expected)
+- Doctor of Philosophy (PhD) in **Computer Science**: 2021-2026 (expected)
   - Texas A&M University
   - Advisor: Dr. Bobak Mortazavi
 - Bachelor of Science (BS) in **Computer Science**: 2017-2021
